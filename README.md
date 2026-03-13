@@ -38,7 +38,8 @@ These features represent customer purchasing patterns.
 
 Below is a visualization of the identified customer segments.
 
-![Customer Segmentation](images/cluster_visualization.png)
+<img width="880" height="616" alt="image" src="https://github.com/user-attachments/assets/8d1626da-13a8-4d8d-a54f-7ab1da0a938b" />
+
 
 Each color represents a different cluster of customers.
 
