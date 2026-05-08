@@ -61,3 +61,6 @@ These segments help businesses design targeted marketing strategies.
 ## Evaluation
 
 Clustering quality was evaluated using **Silhouette Score**.
+
+# Future Work
+Coming soon
